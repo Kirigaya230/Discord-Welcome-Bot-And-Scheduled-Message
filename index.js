@@ -71,7 +71,7 @@ client.on('guildMemberAdd', async (member) => {
   if (channel3) 
   {
 
-    const gifUrl = 'https://i.imgur.com/HVfhXLw.gif'; // Change to the link of the gif you want to use
+    const gifUrl = 'your gif'; // Change to the link of the gif you want to use
 
     // change to the welcome message you want
 
