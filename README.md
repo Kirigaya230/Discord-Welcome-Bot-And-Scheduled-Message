@@ -6,7 +6,7 @@ you need to create a `folder` in which your bot files are saved and you will ope
 
 # Node.js
 You need to install node.js to be able to use the code that can be seen in the `/index.js` file                                       
-`https://nodejs.org/en`
+https://nodejs.org/en
 
 # Install
 In your `VScode` you will need to use these installation codes before your bot can start working:              
