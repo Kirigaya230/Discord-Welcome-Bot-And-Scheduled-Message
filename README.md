@@ -6,7 +6,7 @@ You need to install node.js to be able to use the code that can be seen in the `
 https://nodejs.org/en
 
 # install
-In your VS code you will need to use these installation codes before your bot can start working:              
+In your `VScode` you will need to use these installation codes before your bot can start working:              
 ```
 npm init -y
 ```                                                                                                                   
