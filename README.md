@@ -20,3 +20,9 @@ npm install discord.js
 Download my `Index.js` file and paste it in the folder you created for your bot, then reopen said folder in your `VScode` and you could start configuring the parameters of your `Bot`          
 or                                                                                                                   
 Create an `Index.js` file in your `VScode`, copy the code that appears in my `repository`, paste it into the file you just created and you should now start configuring the parameters of your `Bot`
+
+# execute
+Once you have configured all the `parameters` of your bot in the `Index.js` file, use the following command to `execute` the code:                                        
+```
+node .
+```
