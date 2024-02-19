@@ -3,3 +3,4 @@ A discord bot which serves the function of sending a welcome message with a gif 
 
 # Node.js
 You need to install node.js to be able to use the code that can be seen in the /index.js file
+https://nodejs.org/en
