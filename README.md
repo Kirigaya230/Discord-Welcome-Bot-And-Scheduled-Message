@@ -7,5 +7,9 @@ https://nodejs.org/en
 
 # install
 In your VS code you will need to use these installation codes before your bot can start working:              
-`npm init -y`                                                                                                                   
-`npm install discord.js`
+```
+npm init -y
+```                                                                                                                   
+```
+npm install discord.js
+```
